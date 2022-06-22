@@ -1,0 +1,16 @@
+fieldset {
+    overflow: hidden
+}
+
+.some-class {
+    float: left;
+    clear: none;
+}
+
+
+input[type=radio],
+input.radio {
+    float: left;
+    clear: none;
+    margin: 4px 0 0 4px;
+}
